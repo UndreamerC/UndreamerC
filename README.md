@@ -1,16 +1,21 @@
-<!--# About me 👋-->
-🐦‍🔥
-<!--
-**UndreamerC/UndreamerC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm UndreamerC  
 
-Here are some ideas to get you started:
+🚀 A passionate developer who loves **C, systems programming, and open source**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: [UndreamerC](https://github.com/UndreamerC)  
+- 🌱 Learning: **Compiler theory, OS internals, Rust**  
+- 💬 Ask me about: **C, Linux, low-level programming**  
+- 📫 How to reach me: [Email](mailto:youremail@example.com)  
+- ⚡ Fun fact: I debug faster with coffee ☕  
+
+---
+
+## 📊 GitHub Stats
+![UndreamerC's GitHub stats](https://github-readme-stats.vercel.app/api?username=UndreamerC&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndreamerC&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔗 Links
+🌐 [My Blog](https://yourblog.com) | 🐦 [Twitter](https://twitter.com/yourhandle) | 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
