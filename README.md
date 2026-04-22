@@ -6,7 +6,6 @@
 
 ---
 
-
 ### `~/ stack`
 
 <div align="center">
@@ -26,7 +25,7 @@
 
 ---
 
-### `~/ contribution_snake` 🐍
+### `~/ contribution_snake`
 
 <div align="center">
 
@@ -35,6 +34,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake.svg">
   <img alt="snake eating contribution grid" src="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+---
+
+### `~/ contribution_3d`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/UndreamerC/UndreamerC/main/profile-3d-contrib/profile-night-view.svg" alt="3d contribution" />
 
 </div>
 
@@ -51,11 +60,11 @@
 
 ---
 
-### `~/ wakatime`
+### `~/ leetcode`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=UndreamerC&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact" height="200" />
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" alt="leetcode stats" />
 
 </div>
 
@@ -71,17 +80,19 @@
 
 ---
 
-### `~/ now_playing`
+### `~/ steam`
 
 <div align="center">
 
-<a href="https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-  <img src="https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=ffffff&bar_color_cover=true" />
-</a>
+<img src="https://steam-readme.vercel.app/api?steamid=YOUR_STEAM_ID64&theme=dark" alt="steam profile" />
+
+<br/>
+
+<img src="https://steam-readme.vercel.app/api/games?steamid=YOUR_STEAM_ID64&theme=dark&count=5" alt="recently played" />
 
 </div>
 
----
+<!-- ---
 
 ### `~/ pinned`
 
@@ -94,7 +105,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UndreamerC&repo=REPO_2&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
