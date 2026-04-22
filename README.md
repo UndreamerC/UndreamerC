@@ -4,7 +4,7 @@
 
 </div>
 
----
+<!-- ---
 
 ### `~/ stack`
 
@@ -21,7 +21,7 @@
 ![Wireshark](https://img.shields.io/badge/-wireshark-000?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp](https://img.shields.io/badge/-burp%20suite-000?style=flat-square&logo=burpsuite&logoColor=white)
 
-</div>
+</div> -->
 
 ---
 
@@ -37,15 +37,15 @@
 
 </div>
 
----
+<!-- ---
 
 ### `~/ contribution_3d`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/UndreamerC/UndreamerC/main/profile-3d-contrib/profile-night-view.svg" alt="3d contribution" />
+<img src="https://raw.githubusercontent.com/UndreamerC/UndreamerC/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution" />
 
-</div>
+</div> -->
 
 ---
 
@@ -64,11 +64,11 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" alt="leetcode stats" />
+<img src="https://leetcard.jacoblin.cool/uHoeva1WEK?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" alt="leetcode stats" />
 
 </div>
 
----
+<!-- ---
 
 ### `~/ activity_graph`
 
@@ -76,9 +76,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UndreamerC&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" />
 
-</div>
+</div> -->
 
----
+<!-- ---
 
 ### `~/ steam`
 
@@ -90,7 +90,7 @@
 
 <img src="https://steam-readme.vercel.app/api/games?steamid=YOUR_STEAM_ID64&theme=dark&count=5" alt="recently played" />
 
-</div>
+</div> -->
 
 <!-- ---
 
