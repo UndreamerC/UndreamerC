@@ -3,6 +3,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose;%24+cat+/etc/passwd+%7C+grep+undreamer;%24+nmap+-sS+localhost" alt="typing" />
 
 </div>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=UndreamerC&label=visitors&color=000000&style=flat-square&labelColor=000000" />
+</div>
+<!-- ### `~/ metrics` -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UndreamerC&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&count_private=true&include_all_commits=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=UndreamerC&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF" height="170" />
+
+</div>
 
 <!-- ---
 
@@ -23,9 +34,9 @@
 
 </div> -->
 
----
+<!-- ---
 
-### `~/ contribution_snake`
+### `~/ contribution_snake` -->
 
 <div align="center">
 
@@ -47,26 +58,14 @@
 
 </div> -->
 
----
 
-### `~/ metrics`
+<!-- ### `~/ leetcode` -->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UndreamerC&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&count_private=true&include_all_commits=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=UndreamerC&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF" height="170" />
-
-</div>
-
----
-
-### `~/ leetcode`
-
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/UndreamerC?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" alt="leetcode stats" />
 
-</div>
+</div> -->
 
 <!-- ---
 
@@ -106,11 +105,3 @@
 </a>
 
 </div> -->
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=UndreamerC&label=visitors&color=000000&style=flat-square&labelColor=000000" />
-
-</div>
