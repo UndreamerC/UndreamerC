@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose;%24+cat+/etc/passwd+%7C+grep+undreamer;%24+nmap+-sS+localhost" alt="typing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating contribution grid" src="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=UndreamerC&label=visitors&color=000000&style=flat-square&labelColor=000000" />
-</div>
+
+
 <!-- ### `~/ metrics` -->
 
 <div align="center">
@@ -15,6 +18,15 @@
 
 </div>
 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose;%24+cat+/etc/passwd+%7C+grep+undreamer;%24+nmap+-sS+localhost" alt="typing" />
+
+</div>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=UndreamerC&label=visitors&color=000000&style=flat-square&labelColor=000000" />
+</div>
 <!-- ---
 
 ### `~/ stack`
@@ -38,15 +50,6 @@
 
 ### `~/ contribution_snake` -->
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating contribution grid" src="https://raw.githubusercontent.com/UndreamerC/UndreamerC/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 <!-- ---
 
