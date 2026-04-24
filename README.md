@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UndreamerC&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&count_private=true&include_all_commits=true" height="170" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=UndreamerC&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&count_private=true&include_all_commits=true" height="170" /> -->
 <img src="https://streak-stats.demolab.com?user=UndreamerC&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF" height="170" />
 
 </div>
